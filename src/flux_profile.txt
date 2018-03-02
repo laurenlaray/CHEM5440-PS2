@@ -1,0 +1,15 @@
+30,R_D_LACt2_reverse::M_h_c+M_lac_D_c --> M_h_e+M_lac_D_e,0.033901892350973906
+31,R_ENO::M_2pg_c --> M_h2o_c+M_pep_c,0.039764305430224384
+45,R_EX_glc_e_reverse::M_glc_D_b --> M_glc_D_e,0.02098473246987624
+48,R_EX_h_e::M_h_e --> M_h2o_b,0.044550015924411934
+52,R_EX_lac_D_e::M_lac_D_e --> M_lac_D_b,0.033901892350973906
+62,R_FBA::M_fdp_c --> M_dhap_c+M_g3p_c,0.020456732045225256
+74,R_GAPD::M_g3p_c+M_nad_c+M_pi_c --> M_13dpg_c+M_h_c+M_nadh_c,0.04055840278146383
+76,R_GLCpts::M_glc_D_e+M_pep_c --> M_g6p_c+M_pyr_c,0.02098473246987624
+92,R_LDH_D_reverse::M_h_c+M_nadh_c+M_pyr_c --> M_lac_D_c+M_nad_c,0.033901892350973906
+106,R_PFK::M_atp_c+M_f6p_c --> M_adp_c+M_fdp_c+M_h_c,0.020456732045225256
+108,R_PGI::M_g6p_c --> M_f6p_c,0.02087591565369704
+111,R_PGK_reverse::M_13dpg_c+M_adp_c --> M_3pg_c+M_atp_c,0.04055840278146383
+114,R_PGM_reverse::M_3pg_c --> M_2pg_c,0.039764305430224384
+122,R_PYK::M_adp_c+M_h_c+M_pep_c --> M_atp_c+M_pyr_c,0.01698292770316889
+141,R_TPI::M_dhap_c --> M_g3p_c,0.020456732045225256
